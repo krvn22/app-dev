@@ -4,6 +4,6 @@ My first repository
   "firstName": "Krevan Ren",
   "lastName": "Mente",
   "age": 20,
-  "favoriteMovie: "One piecee"
+  "favoriteMovie: "One piece"
 }
 ```
