@@ -1,2 +1,5 @@
 # app-dev
-My first repository
+##My Favorite Movies
+-Hello love goodbye
+-Insidious
+-The nun
