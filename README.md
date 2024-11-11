@@ -1,5 +1,5 @@
 # app-dev
-##My Favorite Movies
--Hello love goodbye
--Insidious
--The nun
+## My Favorite Movies
+- Hello love goodbye
+- Insidious
+- The nun
